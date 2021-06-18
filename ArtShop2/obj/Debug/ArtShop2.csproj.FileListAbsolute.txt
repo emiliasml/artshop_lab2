@@ -1,0 +1,13 @@
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\bin\Debug\ArtShop2.exe.config
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\bin\Debug\ArtShop2.exe
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\bin\Debug\ArtShop2.pdb
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\obj\Debug\ArtShop2.csprojAssemblyReference.cache
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\obj\Debug\ArtShop2.Form1.resources
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\obj\Debug\ArtShop2.Properties.Resources.resources
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\obj\Debug\ArtShop2.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\obj\Debug\ArtShop2.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\obj\Debug\ArtShop2.csproj.CopyComplete
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\obj\Debug\ArtShop2.exe
+C:\Users\emili\source\repos\ArtShop2\ArtShop2\obj\Debug\ArtShop2.pdb
